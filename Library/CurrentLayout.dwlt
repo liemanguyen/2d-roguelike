@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 130
+  controlID: 132
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -183,7 +183,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 27
+  controlID: 47
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -552,19 +552,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/_Complete-Game
+    - Assets/TutorialInfo
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/_Complete-Game
+  - Assets/TutorialInfo
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\langu\2d-roguelike
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 64090000
-    m_LastClickedID: 2404
+    m_SelectedIDs: b20a0000
+    m_LastClickedID: 2738
     m_ExpandedIDs: 00000000f008000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
