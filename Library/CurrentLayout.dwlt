@@ -250,8 +250,8 @@ MonoBehaviour:
     y: 0
     width: 651
     height: 316
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 15}
@@ -630,20 +630,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Prefabs
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\langu\2d-roguelike
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 59}
-    m_SelectedIDs: 5e090000
-    m_LastClickedID: 2398
-    m_ExpandedIDs: 00000000f60800000c0c000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: de0a0000
+    m_LastClickedID: 2782
+    m_ExpandedIDs: 00000000f80800000e0c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -671,7 +671,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f60800000c0c0000
+    m_ExpandedIDs: 00000000f80800000e0c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -702,15 +702,15 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: 20daffff2a0d00008a0e0000e00a0000f60a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: MovingObject
-      m_OriginalName: MovingObject
+      m_Name: Wall
+      m_OriginalName: Wall
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 11890
+      m_UserData: 11894
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -723,7 +723,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 219}
     m_GridSize: 16
   m_DirectoriesAreaWidth: 182
 --- !u!114 &19
